@@ -90,7 +90,6 @@
 2. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 3. ⭐ Starred [justrach/nanoui](https://github.com/justrach/nanoui)
 4. ⭐ Starred [thesysdev/openui](https://github.com/thesysdev/openui)
-5. ⭐ Starred [unovue/inspira-ui](https://github.com/unovue/inspira-ui)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
