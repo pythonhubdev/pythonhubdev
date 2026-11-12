@@ -87,8 +87,7 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py)
-2. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-3. ⭐ Starred [justrach/nanoui](https://github.com/justrach/nanoui)
+2. ⭐ Starred [justrach/nanoui](https://github.com/justrach/nanoui)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
