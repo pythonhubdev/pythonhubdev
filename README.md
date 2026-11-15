@@ -86,8 +86,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py)
-2. ⭐ Starred [justrach/nanoui](https://github.com/justrach/nanoui)
+1. ⭐ Starred [hydra-db/selfgraph](https://github.com/hydra-db/selfgraph)
+2. ⭐ Starred [crmne/zapfast](https://github.com/crmne/zapfast)
+3. ⭐ Starred [hydra-db/hydradb](https://github.com/hydra-db/hydradb)
+4. ⭐ Starred [bklit/bklit-ui](https://github.com/bklit/bklit-ui)
+5. ⭐ Starred [nsgo-dev/nsgo](https://github.com/nsgo-dev/nsgo)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
