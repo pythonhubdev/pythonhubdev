@@ -86,11 +86,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [samchon/typia](https://github.com/samchon/typia)
-2. ⭐ Starred [unharnessed-agent/Unharnessed](https://github.com/unharnessed-agent/Unharnessed)
-3. ⭐ Starred [hydra-db/selfgraph](https://github.com/hydra-db/selfgraph)
-4. ⭐ Starred [crmne/zapfast](https://github.com/crmne/zapfast)
-5. ⭐ Starred [hydra-db/hydradb](https://github.com/hydra-db/hydradb)
+1. ⭐ Starred [freya-rs/freya](https://github.com/freya-rs/freya)
+2. ⭐ Starred [samchon/typia](https://github.com/samchon/typia)
+3. ⭐ Starred [unharnessed-agent/Unharnessed](https://github.com/unharnessed-agent/Unharnessed)
+4. ⭐ Starred [hydra-db/selfgraph](https://github.com/hydra-db/selfgraph)
+5. ⭐ Starred [crmne/zapfast](https://github.com/crmne/zapfast)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
